@@ -1,2 +1,4 @@
 .venv/
 notebook/Pipfile.lock
+Pipfile
+Pipfile.lock
